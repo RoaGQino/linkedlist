@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Singleton {
+module linkedlist {
 }
